@@ -1,6 +1,6 @@
 # Party Drinks Calculator
 After graduation, I wanted to throw a big party with my friends. The problem was that I had never done anything before so I didn't know how many drinks to buy. After searches on the internet and some empirical experimentation, I came out with this tool.  
-It is a Shiny application helps you calculate the amount of drinks and ingredients needed for a party based on the number of guests, duration, and drink preferences. It also provides a breakdown of the types of drinks and the necessary amounts of ingredients and ice.
+It is a Shiny application that helps you calculate the amount of drinks and ingredients needed for a party based on the number of guests, duration, and drink preferences. It also provides a breakdown of the types of drinks and the necessary amounts of ingredients and ice.
 
 ## Features
 
